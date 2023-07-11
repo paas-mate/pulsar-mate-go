@@ -3,7 +3,7 @@ module pulsar_mate_go
 go 1.18
 
 require (
-	github.com/apache/pulsar-client-go v0.10.0
+	github.com/apache/pulsar-client-go v0.11.0
 	github.com/paas-mate/gutil v0.0.1
 	github.com/stretchr/testify v1.8.2
 	go.uber.org/zap v1.24.0
@@ -48,6 +48,6 @@ require (
 	golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/protobuf v1.26.0 // indirect
+	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
