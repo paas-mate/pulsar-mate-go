@@ -3,7 +3,7 @@ module pulsar_mate_go
 go 1.18
 
 require (
-	github.com/apache/pulsar-client-go v0.11.0
+	github.com/apache/pulsar-client-go v0.11.1
 	github.com/paas-mate/gutil v0.0.1
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/zap v1.25.0
